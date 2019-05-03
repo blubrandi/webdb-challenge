@@ -1,0 +1,9 @@
+{
+  "name": "webdb-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/blubrandi/webdb-challenge",
+  "author": "blubrandi <blubrandi0@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
