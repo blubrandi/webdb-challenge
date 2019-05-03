@@ -5,6 +5,7 @@ exports.up = function (knex, Promise) {
             tbl.increments()
 
             tbl
+            integer('id')
                 .string('name', 128)
                 .string('desc', 256)
                 .boolean('completed')
